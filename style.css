@@ -1,0 +1,30 @@
+body{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+.margin{
+    background: #fff9c4;
+    padding: 30px;
+}
+.border{
+    background: #ffcc80;
+    padding: 20px;
+    border: 5px solid orange;
+
+}
+.padding{
+    background: #c8e6c9;
+    padding: 15px;
+}
+.content{
+    background: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-size: 1.2em;
+}
